@@ -1,4 +1,4 @@
-# Guía 00: Diagnóstico
+# Guía de Ejercicios: Diagnóstico
 
 Resolver los siguientes ejercicios utilizando el lenguaje de programación Java, con el paradigma imperativo.
 Encontrarás una estructura de proyecto conveniente para ese objetivo.
