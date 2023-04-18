@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>00-diagnostico</name>
+	<name>guia-diagnostico</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1681397285932</id>
+			<id>0</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
